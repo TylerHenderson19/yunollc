@@ -29,6 +29,10 @@ We use your information to:
 - Communicate about service-related matters
 - Improve our services
 
+### Data Sharing and Third Parties
+
+We do not sell, rent, or share your personal information with third parties or affiliates for their marketing or promotional purposes. We may share your information with trusted service providers and subcontractors solely to deliver the services you have requested (such as SMS delivery services), but only to the extent necessary to fulfill those services. These service providers are contractually obligated to protect your information and use it only for the purposes we specify.
+
 ### SMS Messaging
 By providing your phone number and opting in, you consent to receive text messages from us regarding emergency notifications and important alerts. Message and data rates may apply. Message frequency varies.
 
